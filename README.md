@@ -1,4 +1,4 @@
-![MasterHead](https://user-images.githubusercontent.com/70682152/196581060-0e3cc3d2-93e3-4108-82ea-920de5bcece4.gif)
+![MasterHead](https://user-images.githubusercontent.com/95495584/194896166-7cef5a2a-44ff-4b07-b770-c03f9fb04626.gif)
 <h2 align="center">Hi 👋! My name is Utkarsh Kr. Singh and I'm a Developer</h2>
 
 ###
