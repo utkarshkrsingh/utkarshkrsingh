@@ -34,10 +34,6 @@
   <img src="https://skillicons.dev/icons?i=qt" height="30" alt="qt logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=bash" height="30" alt="bash logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=lua" height="30" alt="lua logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=neovim" height="30" alt="neovim logo"  />
 </div>
 
 ###
