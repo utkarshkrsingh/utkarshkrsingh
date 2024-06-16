@@ -1,5 +1,5 @@
 ![MasterHead](https://user-images.githubusercontent.com/95495584/194896166-7cef5a2a-44ff-4b07-b770-c03f9fb04626.gif)
-<h2 align="center">Utkarsh Kr Singh | Building the future with AI</h2>
+<h2 align="center">Utkarsh Kr Singh | C/C++ Developer | AI and ML Enthusiast | Linux Expert</h2>
 
 ###
 
