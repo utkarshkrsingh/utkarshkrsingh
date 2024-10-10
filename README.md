@@ -1,5 +1,5 @@
 ![MasterHead](https://user-images.githubusercontent.com/95495584/194896166-7cef5a2a-44ff-4b07-b770-c03f9fb04626.gif)
-<h2 align="center">Utkarsh Kr Singh | C/C++ Developer | Linux Enthusiast | Open-Source Contributor</h2>
+<h2 align="center">Backend Developer | Linux Enthusiast | Learning Go</h2>
 
 ###
 
