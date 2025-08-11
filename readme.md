@@ -11,7 +11,7 @@ var (
     Interests      = []string{"System Design", "Software Engineering", "Networking", "Open Source"}
     Hobbies        = []string{"Coding for fun", "Exploring dev tools", "Sports", "Music"}
     Education      = "B.Tech in Electronics & Computer Science, KIIT University"
-    Languages      = []string{"Go", "C", "C++", "Java", "Python"}
+    Languages      = []string{"Go", "C++", "Python"}
     Tools          = []string{"Git", "Linux", "MySQL", "GORM", "Cobra", "Viper", "Qt"}
     Projects       = []string{"Book Store API", "Ripple CLI", "Snag File Watcher"}
 )
