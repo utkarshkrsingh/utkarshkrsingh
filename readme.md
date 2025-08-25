@@ -11,7 +11,7 @@ var (
     Interests      = []string{"System Design", "Software Engineering", "Networking", "Open Source"}
     Hobbies        = []string{"Coding for fun", "Exploring dev tools", "Sports", "Music"}
     Education      = "B.Tech in Electronics & Computer Science, KIIT University"
-    Languages      = []string{"Go", "C++", "Python"}
+    Languages      = []string{"Go", "C++", "TypeScript", "JavaScript"}
     Tools          = []string{"Git", "Linux", "MySQL", "GORM", "Cobra", "Viper", "Qt"}
     Projects       = []string{"Book Store API", "Ripple CLI", "Snag File Watcher"}
 )
@@ -23,7 +23,9 @@ var (
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="40" alt="cplusplus logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="cplusplus logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="cplusplus logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo"  />
   <img width="12" />
@@ -34,8 +36,6 @@ var (
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" height="40" alt="bash logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="mysql logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/qt/qt-original.svg" height="40" alt="qt logo"  />
 </div>
 
 <br clear="both">
