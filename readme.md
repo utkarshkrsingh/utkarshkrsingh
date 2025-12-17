@@ -13,7 +13,7 @@ var (
     Education      = "B.Tech in Electronics & Computer Science, KIIT University"
     Languages      = []string{"Go", "C++", "TypeScript", "JavaScript"}
     Tools          = []string{"Git", "Linux", "MySQL", "GORM", "Cobra", "Viper", "Qt"}
-    Projects       = []string{"Book Store API", "Ripple CLI", "Snag File Watcher"}
+    Projects       = []string{"Snag"}
 )
 ```
 
