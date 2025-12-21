@@ -9,10 +9,10 @@ var (
     JobTitle       = "Backend Developer / Systems Programmer"
     Specialization = "Building APIs, CLI tools, and exploring OS-level development"
     Interests      = []string{"System Design", "Software Engineering", "Networking", "Open Source"}
-    Hobbies        = []string{"Coding for fun", "Exploring dev tools", "Sports", "Music"}
+    Hobbies        = []string{"Exploring dev tools", "Sports", "Music"}
     Education      = "B.Tech in Electronics & Computer Science, KIIT University"
-    Languages      = []string{"Go", "C++", "TypeScript", "JavaScript"}
-    Tools          = []string{"Git", "Linux", "MySQL", "GORM", "Cobra", "Viper", "Qt"}
+    Languages      = []string{"Go"}
+    Tools          = []string{"Git", "Linux", "MySQL", "Cobra", "Viper"}
     Projects       = []string{"Snag"}
 )
 ```
