@@ -18,12 +18,12 @@ var (
 
 <div align="center">
     <a href="https://www.linkedin.com/in/utkarshkrsingh1103/" target="_blank" style="text-decoration: none;">
-        <img src="https://img.icons8.com/?size=100&id=8808&format=png&color=acb0d0" width="20">
+        <img src="https://img.icons8.com/?size=100&id=8808&format=png&color=acb0d0" width="20" style="display:inline-block;">
     </a>
     <a href="https://x.com/uksingh1103" target="_blank" style="text-decoration: none;">
-        <img src="https://img.icons8.com/?size=100&id=phOKFKYpe00C&format=png&color=acb0d0" width="20">
+        <img src="https://img.icons8.com/?size=100&id=phOKFKYpe00C&format=png&color=acb0d0" width="20" style="display:inline-block;">
     </a>
-    <a href="https://www.instagram.com/utkarshkrsingh1103/" target="_blank" style="text-decoration: none;">
+    <a href="https://www.instagram.com/utkarshkrsingh1103/" target="_blank" style="text-decoration: none;" style="display:inline-block;">
         <img src="https://img.icons8.com/?size=100&id=32309&format=png&color=acb0d0" width="20">
     </a>
 </div>
