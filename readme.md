@@ -10,7 +10,7 @@ var (
     Specialization = "Building APIs, CLI tools, and exploring OS-level development"
     Interests      = []string{"System Design", "Software Engineering", "Networking", "Open Source"}
     Education      = "B.Tech in Electronics & Computer Science, KIIT University"
-    Languages      = []string{"Go", "C++", "Java"}
+    Languages      = []string{"C++", "Go", "Java"}
     Tools          = []string{"Git", "Linux", "MySQL", "PostgreSQL", "Docker"}
     Projects       = []string{"TinyHTTP"}
 )
