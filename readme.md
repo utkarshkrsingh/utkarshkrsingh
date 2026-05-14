@@ -4,16 +4,13 @@
 
 ```go
 var (
-    Name           = "Utkarsh Kumar Singh"
-    City           = "Bhubaneswar, India"
-    JobTitle       = "Backend Developer / Systems Programmer"
-    Specialization = "Building APIs, CLI tools, and exploring OS-level development"
-    Interests      = []string{"System Design", "Software Engineering", "Networking", "Open Source"}
-    Education      = "B.Tech in Electronics & Computer Science, KIIT University"
-    Languages      = []string{"Go", "C++"}
-    Tools          = []string{"Git", "Linux", "MySQL", "PostgreSQL", "Docker"}
-    Projects       = []string{"TinyHTTP"}
+    Name      = "Utkarsh Kumar Singh"
+    JobTitle  = "Backend Developer"
+    Languages = []string{"Go", "C++"}
+    Tools     = []string{"Git", "Linux", "PostgreSQL", "Docker"}
+    Projects  = []string{"TinyHTTP"}
 )
+```
 
 <div align="center">
     <a href="https://www.linkedin.com/in/utkarshkrsingh1103/" target="_blank" style="text-decoration: none;">
