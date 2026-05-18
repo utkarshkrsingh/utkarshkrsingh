@@ -2,14 +2,14 @@
     <img src="https://i.pinimg.com/originals/ca/26/2e/ca262e0354eea311c41134c3e4bc3bc2.gif">
 </p>
 
-```go
-var (
-    Name      = "Utkarsh Kumar Singh"
-    JobTitle  = "Backend Developer"
-    Languages = []string{"Go", "C++"}
-    Tools     = []string{"Git", "Linux", "PostgreSQL", "Docker"}
-    Projects  = []string{"TinyHTTP"}
-)
+```cpp
+struct {
+    std::string_view name       = "Utkarsh Kumar Singh";
+    std::string_view job_title  = "Backend Developer";
+    std::array languages        = {"C++", "Go"};
+    std::array tools            = {"Git", "Linux", "PostgreSQL", "Docker"};
+    std::array projects         = {"TinyHTTP"};
+} profile;
 ```
 
 <div align="center">
