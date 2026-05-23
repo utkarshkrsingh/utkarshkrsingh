@@ -2,14 +2,15 @@
     <img src="https://i.pinimg.com/originals/ca/26/2e/ca262e0354eea311c41134c3e4bc3bc2.gif">
 </p>
 
-```cpp
-struct {
-    std::string_view name       = "Utkarsh Kumar Singh";
-    std::string_view job_title  = "Backend Developer";
-    std::array languages        = {"C++", "Go"};
-    std::array tools            = {"Git", "Linux", "PostgreSQL", "Docker"};
-    std::array projects         = {"TinyHTTP"};
-} profile;
+```java
+var profile = new Object() {
+    String name         = "Utkarsh Kumar Singh";
+    String jobTitle     = "Backend Developer";
+
+    String[] languages  = {"Java", "Go"};
+    String[] tools      = {"Git", "Linux", "PostgreSQL", "Docker"};
+    String[] projects   = {"TinyHTTP"};
+};
 ```
 
 <div align="center">
