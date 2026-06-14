@@ -2,15 +2,15 @@
     <img src="https://i.pinimg.com/originals/ca/26/2e/ca262e0354eea311c41134c3e4bc3bc2.gif">
 </p>
 
-```go
-var (
-    name     = "Utkarsh Kumar Singh"
-    jobTitle = "Backend Developer"
+```java
+var profile = new Object() {
+    String name         = "Utkarsh Kumar Singh";
+    String jobTitle     = "Backend Developer";
 
-    languages = []string{"Go", "Java"}
-    tools     = []string{"Git", "Linux", "PostgreSQL", "Docker"}
-    projects  = []string{"TinyHTTP"}
-)
+    String[] languages  = {"Java", "Go"};
+    String[] tools      = {"Git", "Linux", "PostgreSQL", "Docker"};
+    String[] projects   = {"TinyHTTP"};
+};
 ```
 
 <div align="center">
