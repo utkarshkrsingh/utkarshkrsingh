@@ -3,14 +3,14 @@
 </p>
 
 ```go
-var profile = new Object() {
-    String name         = "Utkarsh Kumar Singh";
-    String jobTitle     = "Backend Developer";
+var (
+    name     = "Utkarsh Kumar Singh"
+    jobTitle = "Backend Developer"
 
-    String[] languages  = {"Java", "Go"};
-    String[] tools      = {"Git", "Linux", "PostgreSQL", "Docker"};
-    String[] projects   = {"TinyHTTP"};
-};
+    languages = []string{"Go", "Java"}
+    tools     = []string{"Git", "Linux", "PostgreSQL", "Docker"}
+    projects  = []string{"TinyHTTP"}
+)
 ```
 
 <div align="center">
